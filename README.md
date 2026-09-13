@@ -417,7 +417,7 @@ The complete ladder diagram used for the Bottle Line Filling System:
 
 The LogixPro 500 simulation screenshot:
 
-[View Simulation](Simulation/Bottle_Line_Filling_System_LogixPro.rsl)
+[View Simulation](Bottle_Line_Filling_System_LogixPro.rsl)
 
 ### Training Certificate
 
