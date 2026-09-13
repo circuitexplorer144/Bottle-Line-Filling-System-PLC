@@ -417,13 +417,13 @@ The complete ladder diagram used for the Bottle Line Filling System:
 
 The LogixPro 500 simulation screenshot:
 
-[View Simulation](Simulation/B)
+[View Simulation](Simulation/Bottle_Line_Filling_System_LogixPro.rsl)
 
 ### Training Certificate
 
 The Industrial Automation / PLC training certificate:
 
-[View Training Certificate](Certificate/Industrial_Automation_PLC_Training_Certificate.pdf)
+[View Training Certificate](Certificate/I)
 
 
 ## Training
