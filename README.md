@@ -423,7 +423,7 @@ The LogixPro 500 simulation screenshot:
 
 The Industrial Automation / PLC training certificate:
 
-[View Training Certificate](Certificate/Industrial_Automation_PLC_Training_Certificate.pdf)
+[View Training Certificate](Industrial_Automation_PLC_Training_Certificate.pdf)
 
 
 ## Training
