@@ -1,0 +1,359 @@
+FILE,LAD 2:
+SOR,0 XIO,I:1/1 BST,1 XIC,I:1/0 NXB,1 XIC,O:2/0 BND,1 OTE,O:2/0 EOR,0
+RCM,
+SOR,1 XIC,O:2/0 XIO,I:1/2 XIO,T4:0/DN OTE,O:2/1 EOR,1
+RCM,
+SOR,2 XIC,O:2/0 XIC,I:1/2 TON,T4:0,50 EOR,2
+RCM,
+SOR,3 XIC,O:2/0 XIC,I:1/2 XIO,T4:0/DN OTE,O:2/2 EOR,3
+RCM,
+SOR,4 XIC,O:2/0 XIC,T4:0/DN OTE,B3:0/0 EOR,4
+RCM,
+SOR,5 XIC,O:2/0 XIC,I:1/3 XIO,I:1/4 OTL,B3:0/1 EOR,5
+RCM,
+SOR,6 XIC,O:2/0 XIC,I:1/4 OTU,B3:0/1 EOR,6
+RCM,
+SOR,7 XIC,B3:0/1 OTE,O:2/3 EOR,7
+RCM,
+SOR,8 XIC,O:2/0 XIO,I:1/2 OTE,O:2/1 EOR,8
+RCM,
+SOR,9 END,9
+RCM,
+FILE,SBR 3:
+SOR,0 END,0
+RCM,
+FILE,SBR 4:
+SOR,0 END,0
+RCM,
+FILE,SBR 5:
+SOR,0 END,0
+RCM,
+FILE,SBR 6:
+SOR,0 END,0
+RCM,
+FILE,SBR 7:
+SOR,0 END,0
+RCM,
+FILE,SBR 8:
+SOR,0 END,0
+RCM,
+FILE,SBR 9:
+SOR,0 END,0
+RCM,
+BTBL
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+NTBL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+FTBL
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+SYMBOLS
+I:1/1 STOP
+I:1/0 START
+O:2/0 SYSTEM ON
+I:1/2 BOTTLE SENSOR
+O:2/1 CONVEYOR MOTOR RUN
+O:2/2 FILLING VALVE
+O:2/3 PUMP MOTOR ON
+T4:0 FILLING TIMER
+B3:0/1 PUMP RUN COMMAND
+B3:0/0 FILLING CYCLE DONE
+I:1/4 NORMAL PRESSURE(tank full)
+I:1/3 LOW PRESSURE(tank low)
+T4:0/DN TIMER DONE
