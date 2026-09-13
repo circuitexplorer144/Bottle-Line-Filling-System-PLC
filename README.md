@@ -412,7 +412,7 @@ The concepts demonstrated in this project can be applied to industrial processes
 
 The complete ladder diagram used for the Bottle Line Filling System:
 
-[View Ladder Diagram](Ladder_Diagram/Bottle_Line_Filling_LogixPro_Simulation.png)
+[View Ladder Diagram](Bottle_Line_Filling_LogixPro_Simulation.png)
 ### LogixPro 500 Simulation
 
 The LogixPro 500 simulation screenshot:
